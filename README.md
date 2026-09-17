@@ -24,3 +24,4 @@ The integrated **CampusBuddy** chatbot provides personalized guidance using the 
 For admission staff, ACEW provides a review dashboard with extracted fields, document previews, risk reasons, identity-check results and audit history. Officers can approve, reject or request correction with mandatory explanations.
 
 Therefore, ACEW Onboard’s innovation is not one isolated feature. It is the integration of **explainable AI, consent-based identity verification, human-in-the-loop fraud screening, chatbot support and checkbox-based campus readiness** into one student-centred workflow. The platform goes beyond solving admission delays: it improves trust, accessibility, data quality, student confidence and the transition from applicant to campus-ready student.
+web app link after deploying in vercel : https://acewonboard.vercel.app/
